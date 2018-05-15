@@ -1,5 +1,5 @@
 {
-  "name": "promise-retry",
+  "name": "@trungdq88/promise-retry",
   "version": "1.0.1",
   "main": "lib/index.js",
   "author": "Trung Dinh Quang <trungdq88@gmail.com>",
